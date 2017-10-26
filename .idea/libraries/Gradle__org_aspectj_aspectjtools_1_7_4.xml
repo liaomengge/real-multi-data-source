@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: org.aspectj:aspectjtools:1.7.4">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.7.4/aspectjtools-1.7.4.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
